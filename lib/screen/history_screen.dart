@@ -1,4 +1,4 @@
-// lib/screens/history_screen.dart
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
@@ -16,7 +16,6 @@ class _HistoryScreenState extends State<HistoryScreen> {
   @override
   void initState() {
     super.initState();
-    // Загружаем историю при инициализации экрана
     context.read<HistoryCubit>().loadHistory();
   }
 

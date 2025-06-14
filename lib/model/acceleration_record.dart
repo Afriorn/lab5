@@ -1,4 +1,4 @@
-// lib/data/models/acceleration_record.dart
+
 class AccelerationRecord {
   final int? id;
   final double initialVelocity;

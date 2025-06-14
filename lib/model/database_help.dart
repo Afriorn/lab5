@@ -1,4 +1,4 @@
-// lib/data/database_helper.dart
+
 import 'package:lab5/model/acceleration_record.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path_provider/path_provider.dart';

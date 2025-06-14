@@ -1,4 +1,4 @@
-// lib/cubits/history_cubit.dart
+
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:lab5/model/acceleration_record.dart';
